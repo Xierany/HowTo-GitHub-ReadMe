@@ -7,3 +7,6 @@ Or check out this repo from Khalby786: https://github.com/khalby786/REHeader?tab
 
 ---
 Wonder how I got that line across the screen? Just type "---" and it will fill the whole width.
+
+Jokes:
+https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file
