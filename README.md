@@ -3,8 +3,8 @@
 </picture>
 
 Want a customized header image like this? Follow this template: https://github.com/khalby786/REHeader
+<br></br> Or check out this repo from Khalby786: https://github.com/khalby786/REHeader?tab=readme-ov-file
 
 ---
-
 
 
