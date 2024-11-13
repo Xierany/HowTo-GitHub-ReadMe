@@ -25,7 +25,7 @@ Just want the premade templates and be done? Try these: <br>
 4. Tick the box saying "Add a README file" under "Initialize this repository with".
 5. Click Create repository. <br> <br>
 
-- Then go to either your front page, or your repositories page to edit the Readme file. <br> <br>
+- Then go to either your front page or your repositories page, to edit the Readme file. <br> <br>
 
 ##### Wonder how I get this line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```. 
 
@@ -50,12 +50,14 @@ like this
 ### 📑 About me:
 Notice how my headlines are bigger and bolder than the other text? You accomplish this by using ```#``` to ```######```, with ```#``` being the biggest. <br> <br>
 
-The icons are like these 💻 and 🤹 are stupid easy to get, just start typing ```:``` and you will get a dropdown menu with options.
+The icons like these 💻 and 🤹 are stupid easy to get, just start typing ```:``` and you will get a dropdown menu with options.
 
 ---
 
 ### 📊 Stats:
-Finally, the fun stuff.
+Finally, the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Anuraghazra"> 
+</a>
 
 Jokes:
 https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file
