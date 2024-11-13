@@ -9,12 +9,25 @@ If you want to check out how my GitHub profile looks, you can check it out here 
   <img src="https://img.shields.io/badge/&#128203-brown" height="45px" alt="My GitHub Profile"> 
 </a> <br> <br>
 
-TLDR: Just want the premade templates and be done? Try these: <br>
+Just want the premade templates and be done? Try these: <br>
 [![GPRM](https://img.shields.io/badge/GPRM-blue)](https://gprm.itsvg.in/) &nbsp;
 [![Readme Generator](https://img.shields.io/badge/Rahuldkjain-red)](https://rahuldkjain.github.io/gh-profile-readme-generator/) &nbsp;
-[![Readme Gen Vercel](https://img.shields.io/badge/ReadmeGenVercel-green)](https://readme-gen.vercel.app/app) &nbsp;
+[![Readme Gen Vercel](https://img.shields.io/badge/Vercel-green)](https://readme-gen.vercel.app/app) &nbsp;
 [![Profilinator](https://img.shields.io/badge/Profilinator-yellow)](https://profilinator.rishav.dev/) &nbsp;
 [![ReadMe Generator](https://img.shields.io/badge/MauroDeSouza-purple)](https://profile-readme-generator.com/) &nbsp;
+
+---
+
+### 📁 Create the Readme file:
+1. In the upper-right corner of any GitHub page, select ```+``` , then click New repository.
+2. Make the Repository name the same as your profile name, this makes the Readme file display on your profile.
+3. Select Public.
+4. Tick the box saying "Add a README file" under "Initialize this repository with".
+5. Click Create repository. <br> <br>
+
+- Then go to either your front page, or your repositories page to edit the Readme file. <br> <br>
+
+##### Wonder how I get this line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```. 
 
 ---
 
@@ -30,11 +43,19 @@ You can use any image you please, as long as you have the URL link. Just put the
 
 If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
 like this 
-```<picture> <img src="URL-link"> <picture>``` <br> <br>
-
-##### Wonder how I got that line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```. 
+```<picture> <img src="URL-link"> <picture>```
 
 ---
+
+### 📑 About me:
+Notice how my headlines are bigger and bolder than the other text? You accomplish this by using ```#``` to ```######```, with ```#``` being the biggest. <br> <br>
+
+The icons are like these 💻 and 🤹 are stupid easy to get, just start typing ```:``` and you will get a dropdown menu with options.
+
+---
+
+### 📊 Stats:
+Finally, the fun stuff.
 
 Jokes:
 https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file
