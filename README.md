@@ -6,7 +6,7 @@ Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bo
 In this I'll give you guides and resources to get started, with detailed instructions and examples. <br>
 
 If you want to check out how my GitHub profile looks, you can check it out here <a href="https://github.com/HEE082024KH"> 
-  <img src="https://img.shields.io/badge/&#128203-brown" height="35px" alt="My GitHub Profile"> 
+  <img src="https://img.shields.io/badge/&#128203-brown" height="45px" alt="My GitHub Profile"> 
 </a> <br> <br>
 
 TLDR: Just want the premade templates and be done? Try these: <br>
@@ -24,13 +24,15 @@ To start you might want to have a header or an image. If you want a customized h
 </a> <br>
 You can also check out the full GitHub repo if you want more info <a href="https://github.com/khalby786/REHeader?tab=readme-ov-file"> 
   <img src="https://img.shields.io/badge/Khalby786-brown" height="15px" alt="Khalby786 Header Guide"> 
-</a>
+</a> <br> <br>
 
-You can also use any image you please, as long as you have the URL link. Just put the link inside the ```""``` in the this element ```<img src="">```
+You can use any image you please, as long as you have the URL link. Just put the link inside the ```""``` in this element ```<img src="">```. <br> <br>
 
-If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags.
+If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
+like this 
+```<picture> <img src="URL-link"> <picture>``` <br> <br>
 
-Wonder how I got that line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```.
+##### Wonder how I got that line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```. 
 
 ---
 
