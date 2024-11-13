@@ -59,5 +59,7 @@ Finally, the fun stuff. Anuraghazra has a massive guide with several different t
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Anuraghazra"> 
 </a>
 
-Jokes:
-https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file)"> 
+  <img src="https://img.shields.io/badge/Jokes-brown" alt="Jokes API"> 
+</a>
