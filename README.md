@@ -1,25 +1,26 @@
 <picture>
   <img src="https://github.com/user-attachments/assets/1cabdd78-7551-4cfe-a172-e4f2fd94b448" width="70%" />
-</picture>
-
----
+</picture> <br> <br>
 
 Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
-In this I'll give guides and resources to figure things out, including full templates.
+In this I'll give you guides and resources to figure things out, including full templates.
 
 If you want to check out how my GitHub profile looks, you can check it out <a href="https://github.com/HEE082024KH"> 
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="My GitHub Profile"> 
 </a>
 
 TLDR: Just want the premade templates and be done? Try these: <br>
+<a href="https://gprm.itsvg.in/">
+  <img src="https://img.shields.io/badge/GPRM-blue" alt="GPRM"> 
+</a> &nbsp;
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/"> 
-  <img src="https://img.shields.io/badge/Rahuldkjain-blue" alt="Readme Generator"> 
+  <img src="https://img.shields.io/badge/Rahuldkjain-red" alt="Readme Generator"> 
 </a> &nbsp; 
 <a href="https://readme-gen.vercel.app/app"> 
   <img src="https://img.shields.io/badge/ReadmeGenVercel-green" alt="Readme Gen Vercel"> 
 </a> &nbsp;
 <a href="https://profilinator.rishav.dev/">
-  <img src="https://img.shields.io/badge/Profilinator-red" alt="Profilinator"> 
+  <img src="https://img.shields.io/badge/Profilinator-yellow" alt="Profilinator"> 
 </a> &nbsp;
 <a href="https://profile-readme-generator.com/"> 
   <img src="https://img.shields.io/badge/MauroDeSouza-purple" alt="ReadMe Generator"> 
