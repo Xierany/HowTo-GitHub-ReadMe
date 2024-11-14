@@ -61,7 +61,8 @@ Finally, the fun stuff. Anuraghazra has a massive guide with several different t
 </a> <br>
 This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a URL-link for the API, and all you need to do is change the username to your own. Put this link in a ```<img src="">``` like mentioned above, and you're all set. <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424" />
+<img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
 
 It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme. <br>
 This is twice the work, and is mostly for those that want to make the design look how you want it to for every user. <br>
@@ -83,9 +84,12 @@ Use the structure below and just fill in the ```""``` with the URL to your stats
 The link for the trophy card, that I have on my profile, can be found <a href="https://github.com/ryo-ma/github-profile-trophy"> 
   <img src="https://img.shields.io/badge/here-gold" height="15px" alt="Trophies card"> 
 </a> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&row=2&column=4" /> <br> <br>
 And the jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
   <img src="https://img.shields.io/badge/here-silver" height="15px" alt="Jokes Card"> 
 </a> <br>
+<img src="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" /> <br>
 The simple view counter I've used can be found <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Jokes Card"> 
-</a>
+</a> <br>
+<img src="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323" />
