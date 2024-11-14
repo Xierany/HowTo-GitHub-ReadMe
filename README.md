@@ -32,7 +32,7 @@ Just want the premade templates and be done? Try these: <br>
 ---
 
 ### 🖼️ Header/Images:
-To start you might want to have a header or an image. If you want a customized header image like I used above, click <a href="https://reheader.glitch.me/"> 
+To start you might want to have a header or an image. If can get a customized header image like I used above <a href="https://reheader.glitch.me/"> 
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Header template"> 
 </a> <br>
 You can also check out the full GitHub repo if you want more info <a href="https://github.com/khalby786/REHeader?tab=readme-ov-file"> 
@@ -50,7 +50,8 @@ like this
 ### 📑 About me:
 Notice how my headlines are bigger and bolder than the other text? You accomplish this by using ```#``` to ```######```, with ```#``` being the biggest. <br> <br>
 
-The icons like these 💻 and 🤹 are stupid easy to get, just start typing ```:``` and you will get a dropdown menu with options.
+A great way to make the text fresh and excicing is by adding icons, like these 💻 🤹. They are stupid easy to get, just start typing ```:``` and you will get a dropdown menu with options.
+Some like to sort this section with bullet points, but it's up to you what you prefer.
 
 ---
 
