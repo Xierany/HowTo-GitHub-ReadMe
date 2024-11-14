@@ -111,4 +111,14 @@ To add your contact links is as simple as using the the ```href``` element like 
 ```
 You can use this with any image, but if you want to use simple badges you can just copy this ```https://img.shields.io/badge/text-color```. <br>
 Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> <br>
-Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information if you want more options, or want dynamic badges instead.
+Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information if you want more options, or want dynamic badges instead. <br> <br>
+
+To get a badge that redirects to send you an email, however, you need to add slightly more to your badge.
+```
+<a href="mailto:your-email">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+```
+Just replace ```your-email``` with your email and it should work.
+
+<a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
