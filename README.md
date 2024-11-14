@@ -40,7 +40,7 @@ If you want more info you can also check out the full GitHub repo <a href="https
   <img src="https://img.shields.io/badge/here-f2b527" alt="Khalby786 Header Guide"> 
 </a> <br> <br>
 
-You can use any image you please, as long as you have the URL link. Just put the link inside the ```""``` in this element ```<img src=""/>```. <br>
+You can use any image you please, as long as you have the <ins>URL-link</ins>. Just put the link inside the ```""``` in this element ```<img src=""/>```.
 I use this structure to add icons for my tools and languages. <br> <br>
 
 [![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. <br> <br>
@@ -63,7 +63,7 @@ Some like to sort this section with bullet points, but it's up to you what you p
 Finally, the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img src="https://img.shields.io/badge/here-brown" alt="Anuraghazra"> 
 </a> <br>
-This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a URL-link for the API, and all you need to do is change the username to your own. Put this link in a ```<img src=""/>``` like mentioned above, and you're all set. <br>
+This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a <ins>URL-link</ins> for the API, and all you need to do is change the username to your own. Put this link in a ```<img src=""/>``` like mentioned above, and you're all set. <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
 
