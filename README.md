@@ -85,13 +85,14 @@ Use the structure below and just fill in the ```""``` with the URL to your stats
 
 The link for the trophy card, that I have on my profile, can be found <a href="https://github.com/ryo-ma/github-profile-trophy"> 
   <img src="https://img.shields.io/badge/here-gold" alt="Trophies card"> 
-</a> <br> <br>
-<img src="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true&row=2&column=4" /> <br> <br>
-And the jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
+</a> <br>
+**Do note that if you choose to exclude certain trophies from the image, it still maintains the full size as if all trophies were still there.* <br> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true" /> <br> <br>
+The jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
   <img src="https://img.shields.io/badge/here-silver" alt="Jokes Card"> 
 </a> <br> <br>
 <img src="https://readme-jokes.vercel.app/api?&qColor=%23d12e2e&aColor=%238c8c8c&borderColor=%23787878&textColor=%23ffecd9&codeColor=2e41d1&bgColor=#7D2323" /> <br>
-The simple view counter I've used can be found <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
+And the simple view counter I've used can be found <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
   <img src="https://img.shields.io/badge/here-red" alt="Jokes Card"> 
 </a> <br> <br>
 <img src="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323" />
