@@ -99,3 +99,15 @@ And the simple view counter I've used can be found <a href="https://github.com/a
   <img src="https://img.shields.io/badge/here-red" alt="Jokes Card"> 
 </a> <br> <br>
 <img src="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323" />
+
+---
+
+### Contact
+To add your contact links is as simple as using the the ```href``` element like this 
+```
+<a href="link-to-your-social-media-URL"> 
+  <img src="link-to-image/button"> 
+</a>
+```
+You can use this with any image, but if you want to use simple buttons you can just copy this ```https://img.shields.io/badge/text-color```. <br>
+Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button, #d12e2e format or plain text works.
