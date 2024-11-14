@@ -40,7 +40,10 @@ If you want more info you can also check out the full GitHub repo <a href="https
   <img src="https://img.shields.io/badge/here-f2b527" alt="Khalby786 Header Guide"> 
 </a> <br> <br>
 
-You can use any image you please, as long as you have the URL link. Just put the link inside the ```""``` in this element ```<img src=""/>```. <br> <br>
+You can use any image you please, as long as you have the URL link. Just put the link inside the ```""``` in this element ```<img src=""/>```. <br>
+I use this structure to add icons for my tools and languages. <br> <br>
+
+[![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. <br> <br>
 
 If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
 like this 
@@ -64,7 +67,7 @@ This includes the stats card, language card and streak card, that I have on my p
 
 <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
 
-##### Many stats cards use markdown to display, using a format that looks like this ```[![Name](URL-link)]```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>``` <br> <br>
+##### Many stats cards use markdown to display, using a format that looks like this ```[![Name](URL-link)]()```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>``` <br> <br>
 
 It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme. <br>
 This is twice the work, and is mostly for those that want to make the design look how you want it to for every user. <br>
