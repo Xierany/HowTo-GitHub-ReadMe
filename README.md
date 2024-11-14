@@ -59,13 +59,15 @@ Some like to sort this section with bullet points, but it's up to you what you p
 Finally, the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Anuraghazra"> 
 </a> <br>
-This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a URL-link for the API, and all you need to do is change the username to your own. Put this link in a ```<img src="">``` like mentioned above, and you're all set.
+This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a URL-link for the API, and all you need to do is change the username to your own. Put this link in a ```<img src="">``` like mentioned above, and you're all set. <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424" />
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file)"> 
-  <img src="https://img.shields.io/badge/Jokes-brown" alt="Jokes API"> 
-</a>
+It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme. <br>
+This is twice the work, and is mostly for those that want to make the design look how you want it to for every user. <br>
+Use the structure below and just fill in the ```""``` with the URL to your stats card.
 
+```
   <source
     srcset=""
     media="(prefers-color-scheme: dark)"
@@ -75,5 +77,15 @@ This includes the stats card, language card and streak card, that I have on my p
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img src="" />
+```
+<br>
 
-
+The link for the trophy card, that I have on my profile, can be found <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+  <img src="https://img.shields.io/badge/here-gold" height="15px" alt="Trophies card"> 
+</a> <br>
+And the jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
+  <img src="https://img.shields.io/badge/here-silver" height="15px" alt="Jokes Card"> 
+</a> <br>
+The simple view counter I've used can be found <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
+  <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Jokes Card"> 
+</a>
