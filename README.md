@@ -1,9 +1,9 @@
 <picture>
   <img src="https://github.com/user-attachments/assets/1cabdd78-7551-4cfe-a172-e4f2fd94b448" width="70%" />
-</picture> <br> <br>
+</picture> <br> <br> <br>
 
 Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
-In this I'll give you guides and resources to get started, with detailed instructions and examples. <br>
+In this I'll give you guides and resources to get started, with instructions and examples. <br>
 
 If you want to check out how my GitHub profile looks, you can check it out here <a href="https://github.com/HEE082024KH"> 
   <img src="https://img.shields.io/badge/&#128203-brown" height="45px" alt="My GitHub Profile"> 
@@ -58,9 +58,22 @@ Some like to sort this section with bullet points, but it's up to you what you p
 ### 📊 Stats:
 Finally, the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img src="https://img.shields.io/badge/here-brown" height="15px" alt="Anuraghazra"> 
-</a>
+</a> <br>
+This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a URL-link for the API, and all you need to do is change the username to your own. Put this link in a ```<img src="">``` like mentioned above, and you're all set.
 
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file)"> 
   <img src="https://img.shields.io/badge/Jokes-brown" alt="Jokes API"> 
 </a>
+
+  <source
+    srcset=""
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=""
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img src="" />
+
+
