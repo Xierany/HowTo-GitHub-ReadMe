@@ -2,6 +2,13 @@
   <img src="https://github.com/user-attachments/assets/1cabdd78-7551-4cfe-a172-e4f2fd94b448" width="70%" />
 </picture> <br> <br> <br>
 
+##### [Table of Contents](#table-of-contents)
+[Readme](#-readme)    
+[Images](#-images)    
+[Text](#-text)    
+[Stats](#-stats)    
+[Contact](#-contact)       
+
 Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
 In this I'll give you guides and resources to get started, with instructions and examples. <br> <br>
 
@@ -18,6 +25,7 @@ Just want the premade templates and be done? Try these: <br>
 
 ---
 
+<a name="readme"></a>
 ### 📁 Readme
 To start you need to create a Readme file.
 1. In the upper-right corner of any GitHub page, select ```+``` , then click New repository.
@@ -32,6 +40,7 @@ To start you need to create a Readme file.
 
 ---
 
+<a name="images"></a>
 ### 🖼️ Images
 To start you might want to have a header or an image. You can get a customized header image like I used above <a href="https://reheader.glitch.me/"> 
   <img src="https://img.shields.io/badge/here-168037" alt="Header template"> 
@@ -51,6 +60,7 @@ like this
 
 ---
 
+<a name="text"></a>
 ### 📑 Text
 Notice how my headlines are bigger and bolder than the other text? You accomplish this by using ```#``` to ```######```, with ```#``` being the biggest. <br> <br>
 
@@ -60,6 +70,7 @@ as long as you remember to link it. *(more about that further down)*
 
 ---
 
+<a name="stats"></a>
 ### 📊 Stats
 Now on to the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img src="https://img.shields.io/badge/here-brown" alt="Anuraghazra"> 
@@ -103,6 +114,7 @@ And the simple view counter I've used can be found <a href="https://github.com/a
 
 ---
 
+<a name="contact"></a>
 ### Contact
 To add your contact links is as simple as using the the ```href``` element like this 
 ```
