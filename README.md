@@ -70,7 +70,7 @@ This includes the stats card, language card and streak card, that I have on my p
 
 ##### Many stats cards use markdown to display, using a format that looks like this ```[![Name](URL-link)]()```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>``` <br> <br>
 
-It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme. <br>
+It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme.
 This is twice the work, and is mostly for those that want to make the design look how you want it to for every user. <br>
 Use the structure below and just fill in the ```""``` with the URL to your stats card.
 
@@ -110,8 +110,12 @@ To add your contact links is as simple as using the the ```href``` element like 
   <img src="link-to-image/button"> 
 </a>
 ```
-You can use this with any image, but if you want to use simple badges you can just copy this ```https://img.shields.io/badge/text-color```. <br>
-Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> <br>
+You can use this with any image, but if you want to use simple badges you can just copy this
+```
+https://img.shields.io/badge/text-color
+```
+
+Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> <br> <br>
 Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information, if you want more options or want different types of badges. <br> <br>
 
 To get a badge that redirects to send you an email, however, you need to add surround your badge with an ```href``` element.
