@@ -43,7 +43,7 @@ If you want more info you can also check out the full GitHub repo <a href="https
 You can use any image you please, as long as you have the <ins>URL-link</ins>. Just put the link inside the ```""``` in this element ```<img src=""/>```.
 I use this structure to add icons for my tools and languages. <br> <br>
 
-[![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. <br> <br>
+[![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. If you have local images you want to use, you need to upload them to GitHub or any other file hosting website, and link to them. <br> <br>
 
 If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
 like this 
@@ -71,7 +71,7 @@ This includes the stats card, language card and streak card, that I have on my p
 ##### Many stats cards use markdown to display, using a format that looks like this ```[![Name](URL-link)]()```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>``` <br> <br>
 
 It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme.
-This is twice the work, and is mostly for those that want to make the design look how you want it to for every user. <br>
+This is twice the work, and is mostly for those that want to make the design look how you want it to for every user.
 Use the structure below and just fill in the ```""``` with the URL to your stats card.
 
 ```
