@@ -3,7 +3,7 @@
 </picture> <br> <br> <br>
 
 Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
-In this I'll give you guides and resources to get started, with instructions and examples. <br>
+In this I'll give you guides and resources to get started, with instructions and examples. <br> <br>
 
 If you want to check out how my GitHub profile looks, you can check it out <a href="https://github.com/HEE082024KH"> 
   <img src="https://img.shields.io/badge/here-121b6e" alt="My GitHub Profile"> 
@@ -33,7 +33,7 @@ To start you need to create a Readme file.
 ---
 
 ### 🖼️ Images
-To start you might want to have a header or an image. If can get a customized header image like I used above <a href="https://reheader.glitch.me/"> 
+To start you might want to have a header or an image. You can get a customized header image like I used above <a href="https://reheader.glitch.me/"> 
   <img src="https://img.shields.io/badge/here-168037" alt="Header template"> 
 </a> <br>
 If you want more info you can also check out the full GitHub repo <a href="https://github.com/khalby786/REHeader?tab=readme-ov-file"> 
@@ -55,12 +55,13 @@ like this
 Notice how my headlines are bigger and bolder than the other text? You accomplish this by using ```#``` to ```######```, with ```#``` being the biggest. <br> <br>
 
 A great way to make the text fresh and excicing is by adding icons, like these 💻 🤹. They are easy to get by just typing ```:``` and you will get a dropdown menu with options.
-Some like to sort this section with bullet points, but it's up to you what you prefer.
+Some like to sort this section with bullet points, but it's up to you what you prefer. However, if you want to write a long summary it might just be best to put it on your LinkedIn,
+as long as you remember to link it. *(more about that further down)*
 
 ---
 
 ### 📊 Stats
-Finally, the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
+Now on to the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img src="https://img.shields.io/badge/here-brown" alt="Anuraghazra"> 
 </a> <br>
 This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a <ins>URL-link</ins> for the API, and all you need to do is change the username to your own. Put this link in a ```<img src=""/>``` like mentioned above, and you're all set. <br>
@@ -111,14 +112,21 @@ To add your contact links is as simple as using the the ```href``` element like 
 ```
 You can use this with any image, but if you want to use simple badges you can just copy this ```https://img.shields.io/badge/text-color```. <br>
 Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> <br>
-Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information if you want more options, or want dynamic badges instead. <br> <br>
+Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information, if you want more options or want different types of badges. <br> <br>
 
-To get a badge that redirects to send you an email, however, you need to add slightly more to your badge.
+To get a badge that redirects to send you an email, however, you need to add surround your badge with an ```href``` element.
 ```
 <a href="mailto:your-email">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ```
-Just replace ```your-email``` with your email and it should work.
+Just replace ```your-email``` with your email and it should work. If you did it right it should look like this: <br>
+*Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
 
-<a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirik-hellesen-035695305/)
+<a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
+<a href="https://www.linkedin.com/in/eirik-hellesen-035695305"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" height="28px"><a/> &nbsp;
+<a href="https://discordapp.com/users/1274996964089528396"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white" height="28px"></a> <br>
+
+To redirect your badge to your Discord user profile, just add this URL to the ```href``` element like this: <br>
+```<a href="https://discordapp.com/users/Your-User-ID">```
+If you do not know how to find your user-ID, check out this <a href="https://www.socialspyro.com/how-to-share-discord-profile-link/"> 
+  <img src="https://img.shields.io/badge/link-5865F2" alt="Socialspyro"> 
