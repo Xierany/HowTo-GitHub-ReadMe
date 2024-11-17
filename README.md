@@ -122,7 +122,7 @@ To add your contact links is as simple as using the the ```href``` element like 
   <img src="link-to-image/button"> 
 </a>
 ```
-You can use this with any image, but if you want to use simple badges you can just copy this
+You can use this with any image, but if you want to use simple badges like <picture>![Shield.io](https://img.shields.io/badge/this-black)</picture> you can just copy this link
 ```
 https://img.shields.io/badge/text-color
 ```
