@@ -39,7 +39,7 @@ To start you need to create a Readme file.
 
 ---
 
-### 🖼️ Images
+### 🖼 Images
 To start you might want to have a header or an image. You can get a customized header image like I used above <a href="https://reheader.glitch.me/"> 
   <img src="https://img.shields.io/badge/here-168037" alt="Header template"> 
 </a> <br>
