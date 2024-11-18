@@ -117,21 +117,21 @@ To add your contact links is as simple as using the the ```href``` element like 
   <img src="link-to-image/button"> 
 </a>
 ```
-You can use this with any image, but if you want to use simple badges like <picture>![Shield.io](https://img.shields.io/badge/this-black)</picture> you can just copy this link
+You can use this with any image, but if you want to use simple badges like <picture>![Shield.io](https://img.shields.io/badge/this-pink)</picture> you can just copy this link
 ```
 https://img.shields.io/badge/text-color
 ```
 
-Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> <br> <br>
+Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> You can also have a double badge <picture>![Shield.io](https://img.shields.io/badge/like-this-red)</picture> by just adding another text field. <br> <br> <br>
 Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information, if you want more options or want different types of badges. <br> <br>
 
 To get a badge that redirects to send you an email, however, you need to add surround your badge with an ```href``` element.
 ```
 <a href="mailto:your-email">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 ```
-Just replace ```your-email``` with your email and it should work. If you did it right it should look like this: <br>
-*Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
+Just replace ```your-email``` with your email and it should work. Notice the ```logo=gmail``` parameter? <br> You can replace it with many popular social media logos, by just typing the name. <br>
+**Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
 
 <a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/eirik-hellesen-035695305"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" height="28px"><a/> &nbsp;
