@@ -111,7 +111,7 @@ And the simple view counter I've used can be found <a href="https://github.com/a
 
 ---
 
-### ✉️ Contact
+### 📫 Contact
 To add your contact links is as simple as using the the ```href``` element like this 
 ```
 <a href="link-to-your-social-media-URL"> 
