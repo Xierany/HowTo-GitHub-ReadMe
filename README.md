@@ -1,6 +1,6 @@
 <picture>
   <img src="https://github.com/user-attachments/assets/1cabdd78-7551-4cfe-a172-e4f2fd94b448" width="70%" />
-</picture> <br> <br> <br>
+</picture>
 
 ##### [Table of Contents](#table-of-contents)    
 [Readme](#-readme)    
