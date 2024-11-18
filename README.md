@@ -54,7 +54,8 @@ I use this structure to add icons for my tools and languages. <br> <br>
 
 If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
 like this 
-```<picture> <img src="URL-link"> </picture>```
+```<picture> <img src="URL-link"> </picture>```. 
+This works on any picture, badge, gif and similar.
 
 ---
 
