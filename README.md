@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/1cabdd78-7551-4cfe-a172-e4f2fd94b448" width="70%" />
 </picture>
 
-##### [Table of Contents](#table-of-contents)    
+### [Table of Contents](#table-of-contents)    
 [Readme](#-readme)    
 [Images](#-images)    
 [Text](#-text)    
 [Stats](#-stats)    
 [Contact](#-contact)    
 
-Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
+<br> Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
 In this I'll give you guides and resources to get started, with instructions and examples. <br> <br>
 
 If you want to check out how my GitHub profile looks, you can check it out <a href="https://github.com/HEE082024KH"> 
