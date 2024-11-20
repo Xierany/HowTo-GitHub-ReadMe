@@ -126,7 +126,7 @@ https://img.shields.io/badge/text-color
 Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> You can also have a double badge <picture>![Shield.io](https://img.shields.io/badge/like-this-red)</picture> by just adding another text field. <br> <br> <br>
 Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information, if you want more options or want different types of badges. <br> <br>
 
-To get a badge that redirects to send you an email, however, you need to add an ```href``` tag in addition to the ```img src```.
+To get a badge that redirects to an email, however, you need to add an ```href``` tag in addition to the ```img src```.
 ```
 <a href="mailto:your-email">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
