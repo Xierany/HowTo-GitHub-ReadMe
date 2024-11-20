@@ -126,12 +126,12 @@ https://img.shields.io/badge/text-color
 Just replace the two elements at the end, where "text" is what the button says and "color" is the color of the button. <br> You can also have a double badge <picture>![Shield.io](https://img.shields.io/badge/like-this-red)</picture> by just adding another text field. <br> <br> <br>
 Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https://shields.io/) for more information, if you want more options or want different types of badges. <br> <br>
 
-To get a badge that redirects to send you an email, however, you need to add surround your badge with an ```href``` element.
+To get a badge that redirects to send you an email, however, you need to add an ```href``` tag in addition to the ```img src```.
 ```
 <a href="mailto:your-email">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 ```
-Just replace ```your-email``` with your email and it should work. Notice the ```logo=gmail``` parameter? <br> You can replace it with many popular social media logos, by just typing the name. <br>
+Just replace ```your-email``` with your email and it should work. Notice the ```logo=gmail``` parameter? <br> You can replace it with many popular social media logos, by just typing the name. Try it out! <br>
 **Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
 
 <a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
