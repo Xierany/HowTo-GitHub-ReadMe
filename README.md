@@ -35,7 +35,7 @@ To start you need to create a Readme file.
 
 - Then go to either your front page or your repositories page, to edit the Readme file. <br> <br>
 
-##### Wonder how I get this line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```___```. 
+##### Wonder how I get this line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```_ _ _```. 
 
 ---
 
