@@ -66,7 +66,9 @@ A great way to make the text fresh and excicing is by adding icons, like these ð
 Some like to sort this section with bullet points, but it's up to you what you prefer. However, if you want to write a long summary it might just be best to put it on your LinkedIn,
 as long as you remember to link it. *(more about that further down)*
 
----
+Know how you can do ```---``` for a horisontal line? If you want a thinner line you can instead use the headlines ```##``` or ```#``` without adding text and it will look like below.
+
+#
 
 ### ðŸ“Š Stats
 Now on to the fun stuff. Anuraghazra has a massive guide with several different type of stats <a href="https://github.com/anuraghazra/github-readme-stats"> 
