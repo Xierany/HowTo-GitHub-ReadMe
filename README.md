@@ -140,5 +140,5 @@ Just replace ```your-email``` with your email and it should work. Notice the ```
 
 To redirect your badge to your Discord user profile, just add this URL to the ```href``` element like this: <br>
 ```<a href="https://discordapp.com/users/Your-User-ID">```.
-If you do not know how to find your user-ID, check out this <a href="https://www.socialspyro.com/how-to-share-discord-profile-link/"> 
-  <img src="https://img.shields.io/badge/link-5865F2" alt="Socialspyro"> 
+If you do not know how to find your user-ID, check out <a href="https://www.socialspyro.com/how-to-share-discord-profile-link/"> 
+  <img src="https://img.shields.io/badge/this-5865F2" alt="Socialspyro"> 
