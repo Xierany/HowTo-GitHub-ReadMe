@@ -29,7 +29,7 @@ Just want the premade templates and be done? Try these: <br>
 To start you need to create a Readme file.
 1. In the upper-right corner of any GitHub page, select ```+``` , then click New repository.
 2. Make the Repository name the same as your profile name, this makes the Readme file display on your profile.
-3. Select Public.
+3. Select Public. (This is usually set by default).
 4. Select "Add a README file" under "Initialize this repository with".
 5. Click Create repository. <br> <br>
 
