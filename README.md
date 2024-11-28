@@ -47,8 +47,8 @@ If you want more info you can also check out the full GitHub repo <a href="https
   <img src="https://img.shields.io/badge/here-f2b527" alt="Khalby786 Header Guide"> 
 </a> <br> <br>
 
-You can use any image you please, as long as you have the <ins>URL-link</ins>. Just put the link inside the ```""``` in this element ```<img src=""/>```.
-I use this structure to add icons for my tools and languages. <br> <br>
+You can use any image you please, as long as you have the <ins>URL-link</ins>. Just put the link inside the ```""``` in this element ```<img src=""/>```. <br>
+I use this structure to add icons for my tools and languages, like this. <br>
 
 [![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. If you have local images you want to use, you need to upload them to GitHub or any other file hosting website, and link to them. <br> <br>
 
