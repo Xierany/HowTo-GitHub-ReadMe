@@ -50,6 +50,28 @@ If you want more info you can also check out the full GitHub repo <a href="https
 You can use any image you please, as long as you have the <ins>URL-link</ins>. Just put the link inside the ```""``` in this element ```<img src=""/>```. <br>
 I use this structure to add icons for my tools and languages, like this. <br>
 
+<picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  </picture> <br> <br>
+
 [![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. If you have local images you want to use, you need to upload them to GitHub or any other file hosting website, and link to them. <br> <br>
 
 If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
