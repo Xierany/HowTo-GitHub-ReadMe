@@ -105,7 +105,7 @@ This includes the stats card, language card and streak card, that I have on my p
 
 <img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
 
-##### Many stats cards use markdown to display, using a format that looks like this ```[![Name](Image-link)](Redirect-link)```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>```. <br> <br>
+##### Many stat cards use markdown to display, using a format that looks like this ```[![Name](Image-link)](Redirect-link)```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>```. <br> <br>
 
 It is possible to have different stats cards for light and dark mode, that automatically changes based on the users color scheme.
 This is twice the work, and is mostly for those that want to make the design look how you want it to for every user.
