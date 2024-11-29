@@ -74,9 +74,14 @@ I use this structure to add icons for my tools and languages, like this. <br>
 
 [![Devicon](https://img.shields.io/badge/Devicons-558d6c)](https://github.com/devicons/devicon/tree/master/icons) has a repo full of icons you can use. Use the URL with the element mentioned above, and you'll have a sleek tech stack in no time. If you have local images you want to use, you need to upload them to GitHub or any other file hosting website, and link to them. <br> <br>
 
-If you want to make the image unclickable, ie not redirect to the image when clicked, just surround the picture element with ```<picture>``` tags,
-like this 
-```<picture> <img src="URL-link"> </picture>```. 
+If you want to make the image unclickable, ie not redirect to the image when clicked, <br>
+just surround the picture element with ```<picture>``` tags,
+like this:
+```
+<picture> 
+  <img src="URL-link">
+</picture>
+```
 This works on any picture, badge, gif and similar.
 
 ---
