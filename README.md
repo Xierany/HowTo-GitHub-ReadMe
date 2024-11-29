@@ -158,7 +158,8 @@ Check out [![Shield.io](https://img.shields.io/badge/Shields.io-93cb04)](https:/
 To get a badge that redirects to an email, however, you need to add an ```href``` tag in addition to the ```img src```.
 ```
 <a href="mailto:your-email">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+</a>
 ```
 Just replace ```your-email``` with your email and it should work. Notice the ```logo=gmail``` parameter? <br> You can replace it with many popular social media logos, by just typing the name. Try it out! <br>
 **Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
