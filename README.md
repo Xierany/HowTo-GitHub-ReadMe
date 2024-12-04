@@ -144,7 +144,7 @@ And the simple view counter I've used can be found <a href="https://github.com/a
 To add your contact links is as simple as using the the ```href``` element like this 
 ```
 <a href="link-to-your-social-media-URL"> 
-  <img src="link-to-image/button"> 
+  <img src="link-to-image-button"> 
 </a>
 ```
 You can use this with any image, but if you want to use simple badges like <picture>![Shield.io](https://img.shields.io/badge/this-pink)</picture> you can just copy this link
