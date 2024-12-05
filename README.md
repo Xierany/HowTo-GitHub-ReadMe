@@ -22,6 +22,7 @@ Just want the premade templates and be done? Try these: <br>
 [![Readme Gen Vercel](https://img.shields.io/badge/Vercel-green)](https://readme-gen.vercel.app/app) &nbsp;
 [![Profilinator](https://img.shields.io/badge/Profilinator-yellow)](https://profilinator.rishav.dev/) &nbsp;
 [![ReadMe Generator](https://img.shields.io/badge/MauroDeSouza-purple)](https://profile-readme-generator.com/) &nbsp;
+<br> <br>
 
 ---
 
@@ -36,6 +37,7 @@ To start you need to create a Readme file.
 - Then go to either your front page or your repositories page, to edit the Readme file. <br> <br>
 
 ##### Wonder how I get this line across the screen? Just type ```---``` and it will fill the whole width. You can also use ```***``` and ```_ _ _```. 
+<br>
 
 ---
 
@@ -83,6 +85,7 @@ like this:
 </picture>
 ```
 This works on any picture, badge, gif and similar.
+<br> <br>
 
 ---
 
@@ -94,6 +97,7 @@ Some like to sort this section with bullet points, but it's up to you what you p
 as long as you remember to link it. *(more about that further down)*
 
 Know how you can do ```---``` for a horisontal line? If you want a thinner line you can instead use the headlines ```##``` or ```#``` without adding text and it will look like below.
+<br> <br>
 
 #
 
@@ -137,6 +141,7 @@ And the simple view counter I've used can be found <a href="https://github.com/a
   <img src="https://img.shields.io/badge/here-red" alt="Jokes Card"> 
 </a> <br> <br>
 <img src="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323" />
+<br> <br>
 
 ---
 
