@@ -131,7 +131,7 @@ Use the structure below and just fill in the ```""``` with the URL to your stats
 The link for the trophy card, that I have on my profile, can be found <a href="https://github.com/ryo-ma/github-profile-trophy"> 
   <img src="https://img.shields.io/badge/here-gold" alt="Trophies card"> 
 </a> <br>
-**Do note that if you choose to exclude certain trophies from the image, it still maintains the full size as if all trophies were still there.* <br> <br>
+**Do note that if you choose to exclude certain trophies from the image, it still maintains the full size as if all trophies are still there.* <br> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true" /> <br> <br>
 The jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
   <img src="https://img.shields.io/badge/here-silver" alt="Jokes Card"> 
