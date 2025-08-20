@@ -12,7 +12,7 @@
 <br> Ever wanted to fancy up your GitHub profile but have no idea how? Don't wanna bother figuring it out? <br>
 In this I'll give you guides and resources to get started, with instructions and examples. <br> <br>
 
-If you want to check out how my GitHub profile looks, you can check it out <a href="https://github.com/HEE082024KH"> 
+If you want to check out how my GitHub profile looks, you can check it out <a href="https://github.com/Xierany"> 
   <img src="https://img.shields.io/badge/here-121b6e" alt="My GitHub Profile"> 
 </a> <br> <br>
 
@@ -107,7 +107,7 @@ Now on to the fun stuff. Anuraghazra has a massive guide with several different 
 </a> <br>
 This includes the stats card, language card and streak card, that I have on my profile. Most of these give you a <ins>URL-link</ins> for the API, and all you need to do is change the username to your own. Put this link in a ```<img src=""/>``` like mentioned above, and you're all set. <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hee082024kh&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=HEE082024KH&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Xierany&show_icons=true&border_color=787878&icon_color=d12e2e&title_color=d12e2e&text_color=8c8c8c&border_radius=10&bg_color=242424"  width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Xierany&theme=dark&border_radius=10&exclude_days=Sun%2CSat&card_width=467&background=242424&ring=D12E2E&fire=D12E2E&stroke=D12E2E&border=787878&currStreakNum=8C8C8C&currStreakLabel=D12E2E&sideNums=8C8C8C&sideLabels=D12E2E&dates=8C8C8C&excludeDaysLabel=D12E2E"  width="45%"/>
 
 ##### Many stat cards use markdown to display, using a format that looks like this ```[![Name](Image-link)](Redirect-link)```. This works well most of the time, but offers less customizability than HTML. By using the tags I mentioned above you are able to add HTML parameters like this ```<img src="" width="50px"/>```. <br> <br>
 
@@ -132,7 +132,7 @@ The link for the trophy card, that I have on my profile, can be found <a href="h
   <img src="https://img.shields.io/badge/here-gold" alt="Trophies card"> 
 </a> <br>
 **Do note that if you choose to exclude certain trophies from the image, it still maintains the full size as if all trophies are still there.* <br> <br>
-<img src="https://github-profile-trophy.vercel.app/?username=hee082024kh&theme=chalk&no-frame=true" /> <br> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=Xierany&theme=chalk&no-frame=true" /> <br> <br>
 The jokes card, that continuously generates new jokes, can be found <a href="https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file"> 
   <img src="https://img.shields.io/badge/here-silver" alt="Jokes Card"> 
 </a> <br> <br>
@@ -140,7 +140,7 @@ The jokes card, that continuously generates new jokes, can be found <a href="htt
 And the simple view counter I've used can be found <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
   <img src="https://img.shields.io/badge/here-red" alt="Jokes Card"> 
 </a> <br> <br>
-<img src="https://komarev.com/ghpvc/?username=your-github-HEE082024KH&color=7D2323" />
+<img src="https://komarev.com/ghpvc/?username=your-github-Xierany&color=7D2323" />
 <br> <br>
 
 ---
@@ -169,9 +169,9 @@ To get a badge that redirects to an email, however, you need to add an ```href``
 Just replace ```your-email``` with your email and it should work. Notice the ```logo=gmail``` parameter? <br> You can replace it with many popular social media logos, by just typing the name. Try it out! <br>
 **Make sure to check that the Gmail link redirects like it should, no point having a fancy badge that doesn't work.*
 
-<a href="mailto:hee082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
+<a href="mailto:eirik.hellesen@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" height="28px" alt="Gmail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/eirik-hellesen-035695305"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" height="28px"><a/> &nbsp;
-<a href="https://discordapp.com/users/1274996964089528396"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white" height="28px"></a> <br>
+<a href="https://discordapp.com/users/305003247297495040"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white" height="28px"></a> <br>
 
 To redirect your badge to your Discord user profile, just add this URL to the ```href``` element like this: <br>
 ```<a href="https://discordapp.com/users/Your-User-ID">```.
